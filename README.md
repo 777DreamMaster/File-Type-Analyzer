@@ -10,7 +10,7 @@ Progaram takes 2 arguments:
 ## Example
 ```
 java Main test_files patterns.db
-test_filesdoc_0.doc: MS Office Word 2003
-doc_1.ppt: MS Office PowerPoint 2003
-file.zip: Zip archive
+PDF.pdf: PDF document
+word.doc: MS Office Word 2007+
+ZIP.zip: Zip archive
 ```
